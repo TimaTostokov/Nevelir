@@ -4,9 +4,9 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:layout_marginBottom="55dp"
     android:background="#eeeeee"
     android:gravity="center"
+    android:layout_marginTop="48dp"
     android:orientation="vertical"
     android:padding="16dp"
     tools:context=".MainActivity">
@@ -105,6 +105,17 @@
         android:text="@string/result"
         android:textColor="@android:color/holo_red_dark"
         android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tv_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_256dp"
+        android:fontFamily="@font/roboto"
+        android:text="@string/made_by_geeks_pro"
+        android:textColor="@color/black"
+        android:textSize="14sp"
         android:textStyle="bold" />
 
 </LinearLayout>
