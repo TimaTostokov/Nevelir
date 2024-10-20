@@ -9,7 +9,7 @@
         android:fullBackupContent="@xml/backup_rules"
         android:icon="@drawable/logotype_neviler"
         android:label="@string/app_name"
-        android:roundIcon="@drawable/nevelir"
+        android:roundIcon="@drawable/logotype_neviler"
         android:supportsRtl="true"
         android:theme="@style/Theme.Nevelir"
         tools:targetApi="31">
