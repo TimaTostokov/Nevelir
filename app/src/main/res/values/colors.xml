@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red">#f72626</color>
+    <color name="pink">#FF8086</color>
+    <color name="on_boarding_blue_color">#39CCE8</color>
+    <color name="dark_gray">#827F7F</color>
+    <color name="purple">#C854FF</color>
+    <color name="yellow">#FCE624</color>
+    <color name="orange">#D88232</color>
+    <color name="green">#F803F623</color>
+    <color name="dark_black">#616161</color>
+    <color name="white_blue">#EEB9EAF1</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#39cce8</color>
+    <color name="blue_White">#8006D8F3</color>
+    <color name="rad">#f72626</color>
+    <color name="blue_white">#e4fdff</color>
+    <color name="black_blue">#2e8697</color>
+    <color name="gray">#6e83b7</color>
+    <color name="dark_blue">#003669</color>
+    <color name="dark_gray_">#505050</color>
+    <color name="white_gray">#767676</color>
+    <color name="gray_">#949494</color>
+    <color name="Gray_">#F0F5FB</color>
+    <color name="skip_text_color">#234146</color>
+    <color name="agreement_text_color">#080808</color>
+    <color name="notification_color">#F0F5FB</color>
+    <color name="toolbar_about">#EEB9EAF1</color>
+    <color name="background">#eeeeee</color>
+</resources>
